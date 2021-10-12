@@ -1,5 +1,5 @@
 # Collatz-Conjecture
-Python program for testing if a number obeys the Collatz Conjecture (3N + 1). Program made by @bluwytriestocode and @PiggyAwesome (Me).
+Python program for testing if a number obeys the Collatz Conjecture (3N + 1). Program made by @bluwo and @PiggyAwesome (Me).
 ## Step 1:
 Install requests: `pip3 install requests`
 
